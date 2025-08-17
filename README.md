@@ -33,3 +33,24 @@ This repo documents my applied learning journey through CognitiveClass.ai, spann
 ## 🗂 Repo Structure
 
 Each folder contains lab notes, annotated notebooks, and reflections.
+
+```
+cognitiveclass-ai-learning/
+├── roadmap.md
+├── docker-essentials/
+├── sql-postgresql/
+│   ├── create-tables/
+│   └── views/
+├── text-analytics/
+├── prompt-engineering/
+│   ├── fundamentals/
+│   └── art-of-prompts/
+├── crewai-react-agents/
+│   ├── crewai-101/
+│   └── react-agent/
+├── deep-learning/
+│   ├── fundamentals/
+│   └── tensorflow/
+└── LICENSE
+```
+
