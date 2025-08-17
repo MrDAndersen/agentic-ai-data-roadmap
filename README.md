@@ -63,6 +63,10 @@ cognitiveclass-ai-learning/
 ├── deep-learning/
 │   ├── fundamentals/
 │   └── tensorflow/
+├── pmi-ai-automation/
+│   ├── meeting-followup-agent/
+│   ├── status-report-generator/
+│   └── project-setup-flow/
 └── LICENSE
 ```
 
