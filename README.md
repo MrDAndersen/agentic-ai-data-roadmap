@@ -30,6 +30,18 @@ This repo documents my applied learning journey through CognitiveClass.ai, spann
 | ⏳ Not Started | CrewAI 101: Building Multi-Agent AI Systems|
 | ⏳ Not Started | Build a Simple ReAct Agent from Scratch    |
 
+## 🧭 Project Management & AI Integration
+
+As part of my learning journey, I'm exploring how AI and automation can enhance project management workflows. These experiments are inspired by PMI principles and designed to support the emerging PMI AI community.
+
+### 🔧 Agentic PM Workflows
+
+- 📝 Meeting Follow-Up Agent: Automates action item tracking and stakeholder reminders
+- 📊 Status Report Generator: Summarizes project updates using structured prompts
+- 📁 Project Setup Flow: Creates folders, templates, and kickoff materials via Copilot Studio
+
+These modules are built with Copilot Studio, Power Automate, and Graph API, and reflect my interest in transparent, auditable PM automation.
+
 ## 🗂 Repo Structure
 
 Each folder contains lab notes, annotated notebooks, and reflections.
